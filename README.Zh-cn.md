@@ -192,7 +192,7 @@ $ go-admin.exe migrate -c config/settings.dev.yml
 
 
 # 启动项目，也可以用IDE进行调试
-# macOS or linux 下使用
+# macOS or linux 下使用 （初始化完数据库后 启动命令）
 $ ./go-admin server -c config/settings.yml
 
 
